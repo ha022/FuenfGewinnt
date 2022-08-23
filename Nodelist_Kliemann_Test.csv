@@ -1,4 +1,4 @@
-id,name,period,periodend
+id,name,periodstart,periodend,relationship
 vivaconaqua,VivaConAqua,2020,2022
 toom,TOOM,2021,2022
 jever,Jever,2020,2022
